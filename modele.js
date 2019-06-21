@@ -2,7 +2,7 @@
 <html>
 
     <head>
-    <title>Voici mon parc de véhicules</title>
+    <title>Voici mon parc de vehicules</title>
     </head>
 <body>
 
