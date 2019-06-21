@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 
+    <head>
+    <title>Voici mon parc de véhicules</title>
+    </head>
 <body>
 
     <script>
